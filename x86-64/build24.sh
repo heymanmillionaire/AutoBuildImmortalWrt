@@ -59,6 +59,14 @@ PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
+PACKAGES="$PACKAGES ca-bundle"
+PACKAGES="$PACKAGES curl"
+PACKAGES="$PACKAGES ip-full"
+PACKAGES="$PACKAGES kmod-inet-diag"
+PACKAGES="$PACKAGES kmod-nft-socket"
+PACKAGES="$PACKAGES kmod-nft-tproxy"
+PACKAGES="$PACKAGES kmod-tun"
+
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
 # 静态文件服务器dufs(推荐)
